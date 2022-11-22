@@ -1,7 +1,7 @@
 import logo from '../ptePlante.png';
 import '../App.css';
 import Banner from './Banner';
-import Cart from './Cart';
+// import Cart from './Cart';
 import Shoppinglist from './ShoppingList';
 
 function App() {
